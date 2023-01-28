@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test1</string>
+    <string name="Login">Login</string>
+    <string name="music">Music</string>
+    <string name="mast_assessment">ASSESSMENT</string>
+    <string name="my_profile">My Profile</string>
+    <string name="trivia">Trivia</string>
+    <string name="sports_news">Sports News</string>
+    <string name="Options">Options</string>
+</resources>
