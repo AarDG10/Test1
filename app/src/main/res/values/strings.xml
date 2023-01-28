@@ -7,4 +7,10 @@
     <string name="trivia">Trivia</string>
     <string name="sports_news">Sports News</string>
     <string name="Options">Options</string>
+    <string name="statistics_and_more">Statistics and More</string>
+    <string name="profile">Profile</string>
+    <string name="smooth_jazz_and_more">Smooth Jazz and More</string>
+    <string name="your_sports_corner">Your Sports Corner</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome_user">Welcome User</string>
 </resources>
