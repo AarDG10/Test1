@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Profilepage">
+    tools:context=".Mast">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -15,10 +15,9 @@
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:textColor="#FF9800"
-            android:text="Profile Page Data"
+            android:text="Mast Page Data"
             android:textSize="30dp"
             />
     </LinearLayout>
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
