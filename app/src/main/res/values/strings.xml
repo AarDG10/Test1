@@ -14,4 +14,9 @@
     <string name="dashboard">Dashboard</string>
     <string name="welcome_user">Welcome User</string>
     <string name="chat">Chat</string>
+    <string name="Music">Navigation Drawer</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="menu" />
 </resources>

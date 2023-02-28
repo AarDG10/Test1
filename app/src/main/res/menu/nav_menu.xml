@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/card1"
+    android:title="@string/my_profile" />
+
+    <item
+        android:id="@+id/card2"
+        android:title="@string/music" />
+
+    <item
+        android:id="@+id/card3"
+        android:title="@string/sports_news" />
+    <item
+        android:id="@+id/card4"
+        android:title="@string/mast_assessment"
+        />
+    <item
+        android:id="@+id/card5"
+        android:title="@string/chat"
+        />
+</menu>
