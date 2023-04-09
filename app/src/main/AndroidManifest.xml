@@ -60,6 +60,16 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name=".Music01"></activity>
+        <activity android:name=".Music02"></activity>
+        <activity android:name=".Music03"></activity>
+        <activity android:name=".Music04"></activity>
+        <activity android:name=".Music05"></activity>
+        <activity android:name=".Music06"></activity>
+        <activity android:name=".Music07"></activity>
+        <activity android:name=".Music08"></activity>
+        <activity android:name=".Music09"></activity>
+        <activity android:name=".Music10"></activity>
     </application>
 
 </manifest>
